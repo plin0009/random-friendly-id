@@ -1,0 +1,26 @@
+{
+  "name": "random-friendly-id",
+  "version": "1.0.0",
+  "description": "A short and simple package to generate user-friendly IDs for your applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plin0009/random-friendly-id.git"
+  },
+  "keywords": [
+    "generate",
+    "random",
+    "friendly",
+    "id",
+    "url"
+  ],
+  "author": "plin0009",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plin0009/random-friendly-id/issues"
+  },
+  "homepage": "https://github.com/plin0009/random-friendly-id#readme"
+}
